@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+storage/
+file_asli.txt
+file_hasil.txt
+file_salah.txt
+*.key
